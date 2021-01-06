@@ -3,8 +3,10 @@
 Based on https://github.com/huyng/bashmarks
 
 Don't do this anymore
-> cd Documents/work/bolis/backend/core'
+> cd Documents/work/bolis/backend/core
+
 Instead do
+
 > cd_ core
 
 ## 
