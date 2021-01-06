@@ -2,14 +2,8 @@
 
 Based on https://github.com/huyng/bashmarks
 
-Don't do this anymore
-> cd Documents/work/bolis/backend/core
+Don't do this anymore `cd Documents/work/bolis/backend/core`. Better:  `cd_ core`
 
-Instead do
-
-> cd_ core
-
-## 
 
 ## Install
 
